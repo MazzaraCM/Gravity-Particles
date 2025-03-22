@@ -17,3 +17,7 @@ This project is a simple HTML5 canvas-based simulation of particles influenced b
 - Click or Click-move to interact with particles.
 - Observe the dynamic behavior of particles influenced by the configured settings.
 - This project serves as an educational tool for understanding basic physics principles and JavaScript animation within a web development context.
+
+
+https://github.com/user-attachments/assets/bf8b5237-dfef-4f4b-a2f1-de4e3703ce77
+
