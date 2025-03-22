@@ -1,6 +1,6 @@
 *Gravity Particles Simulation*
 
-This project is a simple HTML5 canvas-based simulation of particles influenced by gravity and capable of interacting with each other through collisions. Users can control various parameters such as gravity, friction, collision margins, and more using an interactive control panel. The simulation offers a visual representation of particle dynamics within a canvas environment, providing an engaging experience for users interested in physics simulations.
+This project is a simple HTML5 + JS canvas-based simulation of particles influenced by gravity and capable of interacting with each other through collisions. Users can control various parameters such as gravity, friction, collision margins, and more using an interactive control panel. The simulation offers a visual representation of particle dynamics within a canvas environment, providing an engaging experience for users interested in physics simulations.
 
 **Features:**
 
